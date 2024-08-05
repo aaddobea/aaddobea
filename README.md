@@ -1,16 +1,16 @@
 ![github-header-image](https://github.com/aaddobea/aaddobea/assets/31397625/f00dcdd2-ff70-4d6f-b518-2cb84624b3fa)
 
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Abigail Akosua Addobea</h1>
+<h1 align="center">Hi 👋, I'm Abigail Akosua Addobea👩‍🦱</h1>
 <h3 align="center">A doctoral researcher at Nanjing University of Science and Technology (NJUST). I'm into the design of cryptographic algorithms and protocols and its implementation to IoT, edge computing, and blockchain networks.</h3>
 <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding" align="center" width="800" height="800" />
 
 
-- 🔭 I’m currently working on [AI and Blockchain projects](https://github.com/aaddobea?tab=repositories)
+- 🔎 I’m currently working on [AI and Blockchain projects](https://github.com/aaddobea?tab=repositories)
 
-- 🌱 I’m currently learning **Javascript**
+- 👩‍💻 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **Cryptography, AI and Blockchain**
+- 👯‍♀️ I’m looking to collaborate on **Cryptography, AI and Blockchain**
 
 - 💬 Ask me about **Research ideas about IoT, Information security and blockchain technology.**
 
