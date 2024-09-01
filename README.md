@@ -3,7 +3,7 @@
 # 🔆⚜️🔱 About Me:
 <h1 align="center">Hi 👋, I'm Abigail Akosua Addobea👩‍🦱</h1>
 <h3 align="center">A doctoral researcher at Nanjing University of Science and Technology (NJUST). I'm into the design of cryptographic algorithms and protocols and its implementation to IoT, edge computing, and blockchain networks.</h3>
-<img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding" align="center" width="800" height="800" />
+<img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding" align="center" width="600" height="600" />
 
 
 - 🔎 I’m currently working on [AI and Blockchain projects](https://github.com/aaddobea?tab=repositories)
