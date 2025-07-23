@@ -1,5 +1,5 @@
-![github-header-image](https://github.com/aaddobea/aaddobea/assets/31397625/f00dcdd2-ff70-4d6f-b518-2cb84624b3fa)
-
+<!---[github-header-image](https://github.com/aaddobea/aaddobea/assets/31397625/f00dcdd2-ff70-4d6f-b518-2cb84624b3fa)---> 
+![Header](https://github.com/aaddobea/aaddobea1/blob/main/github-header-image.png?raw=true)
 # 🔆⚜️🔱 About Me:
 <h1 align="center">Hi 👋, I'm Abigail Akosua Addobea👩‍🦱</h1>
 <h3 align="center">A doctoral researcher at Nanjing University of Science and Technology (NJUST). I'm into the design of cryptographic algorithms and protocols and its implementation to IoT, edge computing, and blockchain networks. I have also have a passion for deep learning and its application to Large Language Models (LLMs)</h3>
