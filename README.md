@@ -2,7 +2,7 @@
 ![Header](https://github.com/aaddobea/aaddobea1/blob/main/github-header-image.png?raw=true)
 # 🔆⚜️🔱 About Me:
 <h1 align="center">Hi 👋, I'm Abigail Akosua Addobea👩‍🦱</h1>
-<h3 align="center">Hello, there. I am Abbie, an associate professor/researcher at the Schoo of Software of Quanzhou University of Information Engineering. In  2025 I completed my doctoral prograom from Nanjing University of Science and Technology (NJUST) and an earned an Master of Engineering (MEng) degree from the  University of Electronic Science and Technology (UESTC). During my research, my masters and doctoral program, I designed lots of cryptographic algorithms and protocols by utilizing their application to IoT, edge computing, and blockchain networks. Currently, I am expanding my research by utilising Deep Learning models into solving security issues in autonomous IoT systems such as self-driving cars and robotic systems. I am activley involved in federated learning and deep learning algorithms. </h3>
+<h3 align="center">Hello, I am Abbie, an Associate Professor and researcher at the School of Software, Quanzhou University of Information Engineering. In 2025, I completed my doctoral program at Nanjing University of Science and Technology (NJUST) and earned a Master of Engineering (MEng) degree from the University of Electronic Science and Technology of China (UESTC). During my master’s and doctoral studies, I designed a range of cryptographic algorithms and protocols, with applications in IoT, edge computing, and blockchain systems. My current research focuses on integrating deep learning techniques to address security challenges in autonomous IoT environments, including self-driving vehicles and robotic systems. I am actively engaged in research on federated learning and advanced deep learning methodologies.</h3>
 <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding" align="center" width="500" height="500" />
 
 
@@ -15,6 +15,8 @@
 - 💬 Ask me about **Research ideas about Federated learning problems, deep learning problems, security issues in autonomous vehicles**
 
 - 📫 How to reach me on my persoanl email **abigailadddobea@ymail.com** and institutional email **akusha@qzuie.edu.cn**
+  
+- I am soliciting for funding from international reseach bodies who would like to support my research as a woman in STEM to produce cutting edge innovative research to add my knowledge to existing research studies.
   
 
 ## 🌐 Socials:
