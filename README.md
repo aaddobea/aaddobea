@@ -1,53 +1,148 @@
-<!---[github-header-image](https://github.com/aaddobea/aaddobea/assets/31397625/f00dcdd2-ff70-4d6f-b518-2cb84624b3fa)---> 
-![Header](https://github.com/aaddobea/aaddobea1/blob/main/github-header-image.png?raw=true)
-# 🔆⚜️🔱 About Me:
-<h1 align="center">Hi 👋, I'm Abigail Akosua Addobea👩‍🦱</h1>
-<h3 align="center">Hello, I am Abbie, an Associate Professor and researcher at the School of Software, Quanzhou University of Information Engineering. In 2025, I completed my doctoral program at Nanjing University of Science and Technology (NJUST) and earned a Master of Engineering (MEng) degree from the University of Electronic Science and Technology of China (UESTC). During my master’s and doctoral studies, I designed a range of cryptographic algorithms and protocols, with applications in IoT, edge computing, and blockchain systems. My current research focuses on integrating deep learning techniques to address security challenges in autonomous IoT environments, including self-driving vehicles and robotic systems. I am actively engaged in research on federated learning and advanced deep learning methodologies.</h3>
-<img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding" align="center" width="500" height="500" />
+<!-- ================= HEADER: AI + CRYPTO THEMED ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Abigail%20Akosua%20Addobea&fontSize=38&fontColor=00FFD1&animation=fadeIn&fontAlignY=35&desc=AI%20Security%20%7C%20Federated%20Learning%20%7C%20Cryptography%20Researcher&descAlignY=55&descSize=16"/>
+</p>
 
-
-- 🔎 I’m currently working on [the application of deep learning models  and federated learning to solve security issues in autonomous systems and robotics projects](https://github.com/aaddobea?tab=repositories)
-
-- 👩‍💻 I’m currently learning **poisoinig attacks in Large Language models (LLMs)**
-
-- 👯‍♀️ I’m looking for collabortors in **applying FL and DL models to solve security problems in -Autonomous Vehicles systems, Robotic systems**
-
-- 💬 Ask me about **Research ideas about Federated learning problems, deep learning problems, security issues in autonomous vehicles**
-
-- 📫 How to reach me on my persoanl email **abigailadddobea@ymail.com** and institutional email **akusha@qzuie.edu.cn**
-  
-- I am soliciting for funding from international reseach bodies who would like to support my research as a woman in STEM to produce cutting edge innovative research to add my knowledge to existing research studies.
-  
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yaa.bliss) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/yaa_biggles/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/madam-akosua-addobea08/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.fr/akosuabiggles/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@keishacornwall) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/https://twitter.com/abigailaddobea) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCj8IFrfg3SuHXCIDMwP3sUg) 
-[![Medium](https://img.shields.io/badge/Medium-%2300AB6C.svg?logo=Medium&logoColor=white)](https://medium.com/@abigailaddobea)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aaddobea&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aaddobea&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaddobea&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aaddobea&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 📝 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🌐 Check Out My Blog  
-Visit my blog for more insights and articles on development topics: [Blog Post Medium](https://medium.com/@abigailaddobea)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aaddobea&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+<!-- Optional AI-themed animated visual -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aaddobea&icon=1&color=5)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/SweetAbby) 
+# 👩‍💻 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">Hi 👋, I'm Abigail Akosua Addobea</h2>
+
+<p align="center">
+Associate Professor | Cryptography Researcher | AI Security Specialist
+</p>
+
+I am an **Associate Professor** at the School of Software, Quanzhou University of Information Engineering. I obtained my **Ph.D. from NJUST (2025)** and an **MEng from UESTC**.
+
+My research sits at the intersection of:
+
+- 🔐 Cryptography & Secure Protocol Design  
+- 🌐 IoT, Edge Computing & Blockchain Security  
+- 🧠 Federated Learning & Deep Learning  
+- 🤖 Autonomous Systems (Robotics & Self-Driving Vehicles)  
+- ⚠️ Adversarial AI & Poisoning Attacks in LLMs  
+
+---
+
+# 🔬 Research Vision (Funding-Oriented)
+
+My work aims to develop **secure, intelligent, and privacy-preserving autonomous systems** by integrating:
+
+- Federated Learning + Cryptography  
+- Blockchain-enabled trust architectures  
+- AI-driven threat detection for IoT ecosystems  
+
+### 🎯 Current Funding Interests
+I am actively seeking **international research funding and collaborations** in:
+
+- AI Security for Autonomous Systems  
+- Privacy-Preserving Federated Learning  
+- Secure IoT & Smart Infrastructure  
+- Women in STEM Research Advancement  
+
+📌 *Open to grants, joint labs, and industry-academic partnerships.*
+
+---
+
+# 🚀 Current Work
+
+- 🔎 Developing **secure FL frameworks for autonomous vehicles & robotics**  
+- 🧠 Studying **poisoning & adversarial attacks in LLMs**  
+- 🤝 Collaborating on **AI-driven security architectures**  
+
+---
+
+# 📫 Contact
+
+- 📧 Personal: **abigailadddobea@ymail.com**  
+- 📧 Academic: **akusha@qzuie.edu.cn**  
+
+---
+
+# 🌐 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/madam-akosua-addobea08/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/yaa.bliss"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/yaa_biggles/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://medium.com/@abigailaddobea"><img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,docker,azure,gcp,solidity,nodejs&theme=dark"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+## 🔥 Activity Graph (Contribution Timeline)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaddobea&theme=tokyo-night&hide_border=true)
+
+## 📈 Stats
+![](https://github-readme-stats.vercel.app/api?username=aaddobea&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+## 🔥 Streak
+![](https://streak-stats.demolab.com/?user=aaddobea&theme=tokyonight&hide_border=true)
+
+## 🧠 Top Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaddobea&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+# 🗺️ Visitor Heatmap & Tracking
+
+## 👀 Profile Visitors
+![](https://visitcount.itsvg.in/api?id=aaddobea&icon=3&color=12)
+
+## 🌍 Contribution Heatmap
+![GitHub Contribution Grid](https://ghchart.rshah.org/aaddobea)
+
+---
+
+# 🏆 Achievements
+![](https://github-profile-trophy.vercel.app/?username=aaddobea&theme=tokyonight&no-frame=true&margin-w=5)
+
+---
+
+# 📝 Thought Leadership
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+📌 Read more:  
+👉 https://medium.com/@abigailaddobea  
+
+---
+
+# 🤝 Open for Collaboration & Grants
+
+🚀 I am actively building partnerships with:
+
+- Universities & Research Labs  
+- Industry AI & Security Teams  
+- Grant Agencies & NGOs  
+
+💡 *If you are interested in funding or collaborating on cutting-edge AI security research, feel free to reach out.*
+
+---
+
+# 💰 Support My Research
+<p align="center">
+<a href="https://www.buymeacoffee.com/SweetAbby">
+<img src="https://img.shields.io/badge/Support%20My%20Research-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
